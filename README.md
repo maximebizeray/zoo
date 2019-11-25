@@ -1,3 +1,3 @@
 # zoo
 tp1
-i love :coffe: and :pizza:
+i love :coffee: and :pizza:
